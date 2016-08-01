@@ -1,2 +1,2 @@
-# liangbs.github.com
-个人简历访问路径：http://liangbs.github.io
+# 简介
+个人简历访问路径：https://liangbs.github.io/grjl/
